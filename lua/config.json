@@ -1,0 +1,6 @@
+{
+    "name": "defold-nvim-lsp",
+
+    "files": ["*.script"],
+
+}
